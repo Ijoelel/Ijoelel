@@ -36,12 +36,12 @@ I’m a **Computer Science student** and **AI/Fullstack enthusiast**, passionate
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ijoelel&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Ijoelel&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ijoelel&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </p>  
 
 ---
