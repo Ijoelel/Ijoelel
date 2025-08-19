@@ -5,14 +5,6 @@ I’m a **Computer Science student** and **AI/Fullstack enthusiast**, passionate
 
 ---
 
-## 🚀 About Me  
-- 🌱 Currently exploring **AI, Machine Learning, and Cloud Computing**  
-- 💻 Working on **Digital Image Inpainting** and **Account Sharing Platform (SyncLab)**  
-- 🔥 Always curious about **MLP, CNN, and Deep Learning architectures**  
-- 🎯 Goal: To contribute to impactful open-source projects  
-
----
-
 ## 🛠 Tech Stack  
 
 **Languages & Frameworks:**  
